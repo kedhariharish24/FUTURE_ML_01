@@ -1,0 +1,50 @@
+
+
+FUTURE INTERNS - TASK 1
+SALES & DEMAND FORECASTING
+
+BUSINESS INSIGHTS
+=================
+
+1. Historical average weekly sales:
+   1,558,980.68
+
+2. Highest historical weekly sales:
+   2,387,950.20
+
+3. Lowest historical weekly sales:
+   1,316,899.31
+
+4. Average forecasted weekly sales:
+   1,754,007.18
+
+5. Highest forecasted weekly sales:
+   2,025,560.81
+
+6. Lowest forecasted weekly sales:
+   1,622,942.33
+
+7. Average holiday-week sales:
+   1,668,391.01
+
+8. Average non-holiday sales:
+   1,550,909.43
+
+
+BUSINESS RECOMMENDATIONS
+========================
+
+- Use the forecast for inventory planning.
+
+- Prepare sufficient stock before periods
+  with higher predicted sales.
+
+- Monitor holiday periods because sales
+  behavior may change.
+
+- Use sales forecasts to support
+  purchasing and staffing decisions.
+
+- Retrain the model periodically when
+  new sales data becomes available.
+
